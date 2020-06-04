@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  *
- * @author seany
+ * @author Sean Nethercot
  */
 
 public class Hello {
